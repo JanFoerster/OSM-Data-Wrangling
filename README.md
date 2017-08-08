@@ -16,7 +16,7 @@ Please download all zip files from all folders and extract them in one target fo
     - 'OpenStreetMap-Hamburg-Sample.osm': zipped in one file and contains OSM data Hamburg, Germany as XML tags and attributes (80 MB)
     - 'OpenStreetMap-Hamburg-31.osm': zipped in two files and contains OSM data Hamburg, Germany as XML tags and attributes (380 MB)
 
-- folder [02-Python Package jfo](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/02-Python Package jfo>) contains Python classes and modules used to import, analyze and wrangle XML data
+- folder [02-Python Package jfo](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/"02-Python Package jfo">) contains Python classes and modules used to import, analyze and wrangle XML data
 
 - folder [03-Sphinx docs](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/03-Sphinx%20docs>) contains a full documentation of all classes and modules of jfo package derived from Sphinx as html sources
 
