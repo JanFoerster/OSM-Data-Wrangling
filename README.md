@@ -2,9 +2,15 @@
 Storage for Udacity OSM Data Wrangling Project
 
 In this project, I analyze the OpenStreetMap data of Hamburg, Germany. I perform automated data cleaning via python scripts, and import the data into a SQL database which can be used for querying the data.
-All files related to this project are located in this ZIP file.
+All files related to this project are located in these ZIP files within the different folders.
 
-- 'Project Report OSM Hamburg.ipynb': Project Report as iPython notebook file
+- 'Project+Report+OSM+Hamburg.html': Project Report as html file
+- 'Project+Report+OSM+Hamburg.ipynb': Project Report as iPython Notebook file
+
+Please download all zip files from all folders and extract them in one target folder. The 'osmHamburg.zip' files need to be extracted within SQLite3 folders. The 'jfo.zip' file need to be extracted under Anaconda2/Lib/site-packages.
+
+- folder '01.OSMXML' contains both OpenStreetMap xml files (370 MB original, 80 MB for Samples)
+__[https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/01-OSMXML]__here
 
 - All Python package files need to be unzipped under Anaconda2/Lib/site-packages. See 'py' folder (https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/py) containing 'jfo' package and it's Sphinx documentation
   - 'jfo' Python package
