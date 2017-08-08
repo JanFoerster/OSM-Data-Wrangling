@@ -12,15 +12,15 @@ All files related to this project are located in these ZIP files within the diff
 
 Please download all zip files from all folders and extract them in one target folder. The 'osmHamburg.zip' files need to be extracted within SQLite3 folders. The 'jfo.zip' file need to be extracted under Anaconda2/Lib/site-packages.
 
-- folder [01-OSMXML]("https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/01-OSMXML") contains both OpenStreetMap xml files (370 MB original, 80 MB for Samples)
+- folder [01-OSMXML](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/01-OSMXML>) contains both OpenStreetMap xml files (370 MB original, 80 MB for Samples)
     - 'OpenStreetMap-Hamburg-Sample.osm': zipped in one file and contains OSM data Hamburg, Germany as XML tags and attributes (80 MB)
     - 'OpenStreetMap-Hamburg-31.osm': zipped in two files and contains OSM data Hamburg, Germany as XML tags and attributes (380 MB)
 
-- folder [02-Python Package jfo]("https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/02-Python Package jfo") contains Python classes and modules used to import, analyze and wrangle XML data
+- folder [02-Python Package jfo](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/02-Python Package jfo>) contains Python classes and modules used to import, analyze and wrangle XML data
 
-- folder [03-Sphinx%20docs]("https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/03-Sphinx%20docs") contains a full documentation of all classes and modules of jfo package derived from Sphinx as html sources
+- folder [03-Sphinx%20docs](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/03-Sphinx%20docs>) contains a full documentation of all classes and modules of jfo package derived from Sphinx as html sources
 
-- folder [04-CSV]("https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/04-CSV") contains all csv files generated from XML file for the five SQLite3 tables
+- folder [04-CSV](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/04-CSV>) contains all csv files generated from XML file for the five SQLite3 tables
     - csv_nodes.zip
       - nodes.csv
       - nodes_tags.csv
