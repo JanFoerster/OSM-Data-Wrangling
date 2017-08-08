@@ -18,7 +18,7 @@ Please download all zip files from all folders and extract them in one target fo
 
 - folder [02-Python Package jfo](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/02-Python Package jfo>) contains Python classes and modules used to import, analyze and wrangle XML data
 
-- folder [03-Sphinx%20docs](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/03-Sphinx%20docs>) contains a full documentation of all classes and modules of jfo package derived from Sphinx as html sources
+- folder [03-Sphinx docs](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/03-Sphinx%20docs>) contains a full documentation of all classes and modules of jfo package derived from Sphinx as html sources
 
 - folder [04-CSV](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/04-CSV>) contains all csv files generated from XML file for the five SQLite3 tables
     - csv_nodes.zip
@@ -29,7 +29,7 @@ Please download all zip files from all folders and extract them in one target fo
       - ways_nodes.csv
       - ways_tags.csv
 
-- folder [05-SQLite3 0DB]("https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/05-SQLite3%20DB") contains SQLite3 database with imported csv files plus all applied SQL files, either directly from Python or from SQLite3 command-line
+- folder [05-SQLite3 0DB](<https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/05-SQLite3%20DB>) contains SQLite3 database with imported csv files plus all applied SQL files, either directly from Python or from SQLite3 command-line
     - 'OSM_Create_Tables.sql': Creates SQLite3 tables
     - 'OSM_Drop_Tables.sql': Drops existing SQLite3 tables
     - 'OSM_Import_CSV.sql': Import csv file generated from XML file
