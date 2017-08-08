@@ -28,14 +28,10 @@ All files related to this project are located in this ZIP file.
     - ways.csv
     - ways_nodes.csv
     - ways_tags.csv
-  
-  
-- SQL files with code for
+    
+- sql folder (https://github.com/JanFoerster/OSM-Data-Wrangling/tree/master/sql), containing SQL files
   - 'OSM_Create_Tables.sql': Creates SQLite3 tables
   - 'OSM_Drop_Tables.sql': Drops existing SQLite3 tables
   - 'OSM_Import_CSV.sql': Import csv file generated from XML file
-  
-  
+    
 - This 'Readme.md' file
-
-- 'OpenStreetMap-Hamburg-Sample.osm': contains OSM data Hamburg, Germany as XML tags and attributes
